@@ -15,7 +15,7 @@ Updated twice daily (00:00 and 12:00 UTC) via GitHub Actions.
 ## Raw URLs (for dashboard)
 
 ```
-https://raw.githubusercontent.com/isaergun/etf-flows-data/main/data/etf_flows.csv
-https://raw.githubusercontent.com/isaergun/etf-flows-data/main/data/etf_shares.csv
-https://raw.githubusercontent.com/isaergun/etf-flows-data/main/data/etf_aum.csv
+https://raw.githubusercontent.com/leyscry/etf-flows-data/main/data/etf_flows.csv
+https://raw.githubusercontent.com/leyscry/etf-flows-data/main/data/etf_shares.csv
+https://raw.githubusercontent.com/leyscry/etf-flows-data/main/data/etf_aum.csv
 ```
