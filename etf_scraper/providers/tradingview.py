@@ -1,6 +1,6 @@
 """
 TradingView ETF shares outstanding scraper.
-Extracts shares_outstanding from embedded JSON in TradingView symbol pages.
+Tries common US exchanges automatically.
 """
 
 import logging
@@ -11,76 +11,118 @@ log = logging.getLogger(__name__)
 
 _HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/91.0.4472.124 Safari/537.36"
+        "Chrome/122.0.0.0 Safari/537.36"
     ),
-}
-
-# Ticker → (exchange, slug)  — slug = exchange-TICKER for TradingView URL
-TRADINGVIEW_FUNDS: dict[str, tuple[str, str]] = {
-    # Invesco — NASDAQ
-    "QQQ":  ("NASDAQ", "NASDAQ-QQQ"),
-    # Vanguard — AMEX
-    "VOO":  ("AMEX", "AMEX-VOO"),
-    "VTI":  ("AMEX", "AMEX-VTI"),
-    "VEA":  ("AMEX", "AMEX-VEA"),
-    "VWO":  ("AMEX", "AMEX-VWO"),
-    "VNQ":  ("AMEX", "AMEX-VNQ"),
-    "BND":  ("NASDAQ", "NASDAQ-BND"),
-    # iShares Gold
-    "IAU":  ("AMEX", "AMEX-IAU"),
-    # Ark
-    "ARKK": ("AMEX", "AMEX-ARKK"),
-    # VanEck
-    "GDX":  ("AMEX", "AMEX-GDX"),
-    "GDXJ": ("AMEX", "AMEX-GDXJ"),
-    # Fixed Income / Credit
-    "BKLN": ("AMEX", "AMEX-BKLN"),
-    "JAAA": ("AMEX", "AMEX-JAAA"),
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 _BASE = "https://www.tradingview.com/symbols"
 
+_EXCHANGES = (
+    "AMEX",
+    "NASDAQ",
+    "NYSE",
+)
 
-def fetch_shares(ticker: str, session: requests.Session | None = None) -> int | None:
-    """
-    Fetch current shares outstanding for a TradingView-listed ETF.
-    Returns shares as integer, or None on failure.
-    """
-    fund = TRADINGVIEW_FUNDS.get(ticker)
-    if not fund:
-        log.debug(f"tradingview: {ticker} not in TRADINGVIEW_FUNDS")
-        return None
 
-    _, slug = fund
-    url = f"{_BASE}/{slug}/"
+def _extract_shares(text: str) -> int | None:
+    """
+    Extract shares_outstanding from TradingView embedded JSON.
+    """
+
+    patterns = [
+        r'"shares_outstanding"\s*:\s*(\d+(?:\.\d+)?)',
+        r'"sharesOutstanding"\s*:\s*(\d+(?:\.\d+)?)',
+    ]
+
+    for pattern in patterns:
+        m = re.search(pattern, text)
+
+        if m:
+            try:
+                value = float(m.group(1))
+
+                if value > 0:
+                    return int(value)
+
+            except ValueError:
+                pass
+
+    return None
+
+
+def fetch_shares(
+    ticker: str,
+    session: requests.Session | None = None,
+) -> int | None:
+
     sess = session or requests.Session()
-    try:
-        r = sess.get(url, headers=_HEADERS, timeout=15)
-        r.raise_for_status()
-    except Exception as exc:
-        log.warning(f"tradingview: {ticker} fetch error — {exc}")
-        return None
 
-    m = re.search(r'"shares_outstanding":(\d+\.?\d*)', r.text)
-    if not m:
-        log.warning(f"tradingview: {ticker} — shares_outstanding not found in page")
-        return None
+    ticker = ticker.upper().strip()
 
-    shares = int(float(m.group(1)))
-    log.info(f"tradingview: {ticker} shares outstanding = {shares:,}")
-    return shares
+    for exchange in _EXCHANGES:
+
+        url = f"{_BASE}/{exchange}-{ticker}/"
+
+        try:
+            r = sess.get(
+                url,
+                headers=_HEADERS,
+                timeout=15,
+            )
+
+            if r.status_code == 404:
+                continue
+
+            r.raise_for_status()
+
+        except Exception as exc:
+            log.debug(
+                "tradingview: %s %s fetch error — %s",
+                exchange,
+                ticker,
+                exc,
+            )
+            continue
+
+        shares = _extract_shares(r.text)
+
+        if shares is not None:
+
+            log.info(
+                "tradingview: %s shares outstanding = %s "
+                "(exchange=%s)",
+                ticker,
+                f"{shares:,}",
+                exchange,
+            )
+
+            return shares
+
+    log.debug(
+        "tradingview: %s shares_outstanding not found",
+        ticker,
+    )
+
+    return None
 
 
 def fetch_all(tickers: list[str]) -> dict[str, int]:
-    """Fetch shares outstanding for all TradingView tickers. Returns {ticker: shares}."""
+
     sess = requests.Session()
+
     results: dict[str, int] = {}
-    for tk in tickers:
-        if tk not in TRADINGVIEW_FUNDS:
-            continue
-        sh = fetch_shares(tk, session=sess)
-        if sh is not None:
-            results[tk] = sh
+
+    for ticker in tickers:
+
+        shares = fetch_shares(
+            ticker,
+            session=sess,
+        )
+
+        if shares is not None:
+            results[ticker] = shares
+
     return results
