@@ -50,6 +50,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ACWI,421488482.6660156,estimated
 2026-11-19,ACWI,0.0,estimated
 2026-11-20,ACWI,0.0,estimated
+2026-11-23,ACWI,0.0,estimated
 2026-01-02,AGG,-8279999.999999999,
 2026-01-05,AGG,-49700000.0,
 2026-01-06,AGG,24870000.0,
@@ -197,6 +198,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,AIQ,568955.9875488281,estimated
 2026-11-19,AIQ,0.0,estimated
 2026-11-20,AIQ,-592327.3802757263,estimated
+2026-11-23,AIQ,88816688.21688461,estimated
 2026-09-12,ARKB,,estimated
 2026-01-02,ARKK,,
 2026-01-05,ARKK,-188530000.0,
@@ -430,6 +432,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ASHR,11926000.213623047,estimated
 2026-11-19,ASHR,7385025.0244140625,estimated
 2026-11-20,ASHR,0.0,estimated
+2026-11-23,ASHR,-29219999.313354492,estimated
 2026-09-12,BIL,,estimated
 2026-09-14,BIL,135420000.0,estimated
 2026-09-15,BIL,0.0,estimated
@@ -471,6 +474,7 @@ date,ticker,flow_usd,flow_type
 2026-11-16,BIL,235232096.86279297,estimated
 2026-11-17,BIL,-2746500.0915527344,estimated
 2026-11-18,BIL,365320402.4505615,estimated
+2026-11-23,BIL,1011153559.5703125,estimated
 2026-09-12,BITB,,estimated
 2026-01-02,BKLN,,
 2026-01-05,BKLN,8390000.0,
@@ -886,6 +890,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,BNO,0.0,estimated
 2026-11-18,BNO,0.0,estimated
 2026-11-19,BNO,0.0,estimated
+2026-11-23,BNO,-2951000.0228881836,estimated
 2026-09-12,BOTZ,,estimated
 2026-09-14,BOTZ,-3293670.1260375977,estimated
 2026-09-15,BOTZ,0.0,estimated
@@ -937,6 +942,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,BOTZ,0.0,estimated
 2026-11-19,BOTZ,215019.9028186798,estimated
 2026-11-20,BOTZ,-182809.14050865173,estimated
+2026-11-23,BOTZ,-14903280.143177032,estimated
 2026-09-12,BSOL,,estimated
 2026-09-12,BWX,,estimated
 2026-10-14,BWX,-4216999.816894531,estimated
@@ -991,6 +997,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,CIBR,0.0,estimated
 2026-11-19,CIBR,14470124.816894531,estimated
 2026-11-20,CIBR,82367996.97875977,estimated
+2026-11-23,CIBR,205717500.6866455,estimated
 2026-09-12,COPX,,estimated
 2026-09-14,COPX,10073385.911102297,estimated
 2026-09-15,COPX,0.0,estimated
@@ -1035,6 +1042,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,COPX,0.0,estimated
 2026-11-18,COPX,-35890904.31980133,estimated
 2026-11-19,COPX,-31415801.954933167,estimated
+2026-11-23,COPX,-251049749.60058594,estimated
 2026-09-12,CPER,,estimated
 2026-09-14,CPER,1959000.015258789,estimated
 2026-09-15,CPER,0.0,estimated
@@ -1080,6 +1088,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,CPER,0.0,estimated
 2026-11-18,CPER,-8511249.542236328,estimated
 2026-11-19,CPER,-10229999.542236328,estimated
+2026-11-23,CPER,-19751998.901367188,estimated
 2026-09-12,DBC,,estimated
 2026-09-14,DBC,0.0,estimated
 2026-09-15,DBC,0.0,estimated
@@ -1124,6 +1133,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,DBC,18110999.67956543,estimated
 2026-11-18,DBC,0.0,estimated
 2026-11-19,DBC,-2951000.0228881836,estimated
+2026-11-23,DBC,-19057999.801635742,estimated
 2026-01-02,DIA,96100000.0,
 2026-01-05,DIA,-290240000.0,
 2026-01-06,DIA,1689400000.0,
@@ -1251,6 +1261,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,DIA,-702282006.8359375,estimated
 2026-11-19,DIA,467799012.75634766,estimated
 2026-11-20,DIA,532157998.65722656,estimated
+2026-11-23,DIA,0.0,estimated
 2026-09-12,DXJ,,estimated
 2026-09-14,DXJ,0.0,estimated
 2026-09-15,DXJ,0.0,estimated
@@ -1302,6 +1313,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,DXJ,0.0,estimated
 2026-11-19,DXJ,0.0,estimated
 2026-11-20,DXJ,0.0,estimated
+2026-11-23,DXJ,0.0,estimated
 2026-09-12,ECH,,estimated
 2026-09-14,ECH,0.0,estimated
 2026-09-15,ECH,-1959000.015258789,estimated
@@ -1353,6 +1365,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ECH,-18832000.92315674,estimated
 2026-11-19,ECH,0.0,estimated
 2026-11-20,ECH,0.0,estimated
+2026-11-23,ECH,0.0,estimated
 2026-01-02,EEM,,
 2026-01-05,EEM,,
 2026-01-06,EEM,352710000.0,
@@ -1500,6 +1513,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EEM,0.0,estimated
 2026-11-19,EEM,0.0,estimated
 2026-11-20,EEM,0.0,estimated
+2026-11-23,EEM,0.0,estimated
 2026-01-02,EFA,,
 2026-01-05,EFA,,
 2026-01-06,EFA,,
@@ -1647,6 +1661,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EIDO,23023000.33569336,estimated
 2026-11-19,EIDO,0.0,estimated
 2026-11-20,EIDO,0.0,estimated
+2026-11-23,EIDO,15164999.48501587,estimated
 2026-01-02,EMB,,
 2026-01-05,EMB,32960000.0,
 2026-01-06,EMB,-77070000.0,
@@ -1794,6 +1809,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EMB,0.0,estimated
 2026-11-19,EMB,-54185998.53515625,estimated
 2026-11-20,EMB,-45007499.69482422,estimated
+2026-11-23,EMB,0.0,estimated
 2026-09-12,EMLC,,estimated
 2026-09-12,EMXC,,estimated
 2026-09-14,EMXC,0.0,estimated
@@ -1846,6 +1862,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EMXC,0.0,estimated
 2026-11-19,EMXC,49908000.18310547,estimated
 2026-11-20,EMXC,0.0,estimated
+2026-11-23,EMXC,0.0,estimated
 2026-09-12,EPI,,estimated
 2026-09-14,EPI,0.0,estimated
 2026-09-15,EPI,-33720001.220703125,estimated
@@ -1897,6 +1914,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EPI,0.0,estimated
 2026-11-19,EPI,0.0,estimated
 2026-11-20,EPI,0.0,estimated
+2026-11-23,EPI,0.0,estimated
 2026-09-12,ETHA,,estimated
 2026-09-12,ETHE,,estimated
 2026-09-12,EWG,,estimated
@@ -1950,6 +1968,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWG,98316000.36621094,estimated
 2026-11-19,EWG,0.0,estimated
 2026-11-20,EWG,0.0,estimated
+2026-11-23,EWG,0.0,estimated
 2026-09-12,EWH,,estimated
 2026-09-14,EWH,-20268000.411987305,estimated
 2026-09-15,EWH,0.0,estimated
@@ -2001,6 +2020,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWH,18711412.525177002,estimated
 2026-11-19,EWH,5061375.188827515,estimated
 2026-11-20,EWH,0.0,estimated
+2026-11-23,EWH,4954500.102996826,estimated
 2026-09-12,EWI,,estimated
 2026-09-14,EWI,0.0,estimated
 2026-09-15,EWI,0.0,estimated
@@ -2052,6 +2072,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWI,0.0,estimated
 2026-11-19,EWI,0.0,estimated
 2026-11-20,EWI,0.0,estimated
+2026-11-23,EWI,-12127500.343322754,estimated
 2026-01-02,EWJ,322690000.0,
 2026-01-05,EWJ,,
 2026-01-06,EWJ,1206810000.0,
@@ -2199,6 +2220,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWJ,52764001.46484375,estimated
 2026-11-19,EWJ,0.0,estimated
 2026-11-20,EWJ,113345998.76403809,estimated
+2026-11-23,EWJ,-112630500.4119873,estimated
 2026-09-12,EWL,,estimated
 2026-09-14,EWL,0.0,estimated
 2026-09-15,EWL,0.0,estimated
@@ -2250,6 +2272,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWL,15827500.343322754,estimated
 2026-11-19,EWL,0.0,estimated
 2026-11-20,EWL,0.0,estimated
+2026-11-23,EWL,15452500.343322754,estimated
 2026-09-12,EWM,,estimated
 2026-09-14,EWM,0.0,estimated
 2026-09-15,EWM,0.0,estimated
@@ -2301,6 +2324,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWM,0.0,estimated
 2026-11-19,EWM,0.0,estimated
 2026-11-20,EWM,0.0,estimated
+2026-11-23,EWM,18892500.400543213,estimated
 2026-09-12,EWP,,estimated
 2026-09-14,EWP,0.0,estimated
 2026-09-15,EWP,0.0,estimated
@@ -2352,6 +2376,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWP,34487999.7253418,estimated
 2026-11-19,EWP,0.0,estimated
 2026-11-20,EWP,0.0,estimated
+2026-11-23,EWP,16622999.954223633,estimated
 2026-09-12,EWQ,,estimated
 2026-09-14,EWQ,0.0,estimated
 2026-09-15,EWQ,0.0,estimated
@@ -2403,6 +2428,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWQ,0.0,estimated
 2026-11-19,EWQ,0.0,estimated
 2026-11-20,EWQ,0.0,estimated
+2026-11-23,EWQ,0.0,estimated
 2026-09-12,EWS,,estimated
 2026-09-14,EWS,6723999.786376953,estimated
 2026-09-15,EWS,0.0,estimated
@@ -2454,6 +2480,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWS,0.0,estimated
 2026-11-19,EWS,-20027000.427246094,estimated
 2026-11-20,EWS,-6965000.152587891,estimated
+2026-11-23,EWS,0.0,estimated
 2026-09-12,EWT,,estimated
 2026-09-14,EWT,22182000.732421875,estimated
 2026-09-15,EWT,0.0,estimated
@@ -2505,6 +2532,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWT,0.0,estimated
 2026-11-19,EWT,0.0,estimated
 2026-11-20,EWT,0.0,estimated
+2026-11-23,EWT,0.0,estimated
 2026-09-12,EWU,,estimated
 2026-09-14,EWU,0.0,estimated
 2026-09-15,EWU,0.0,estimated
@@ -2556,6 +2584,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWU,0.0,estimated
 2026-11-19,EWU,0.0,estimated
 2026-11-20,EWU,0.0,estimated
+2026-11-23,EWU,0.0,estimated
 2026-09-12,EWW,,estimated
 2026-09-14,EWW,-15075999.450683594,estimated
 2026-09-15,EWW,0.0,estimated
@@ -2607,6 +2636,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWW,0.0,estimated
 2026-11-19,EWW,-36290000.915527344,estimated
 2026-11-20,EWW,0.0,estimated
+2026-11-23,EWW,,estimated
 2026-09-12,EWY,,estimated
 2026-09-14,EWY,-339696002.1972656,estimated
 2026-09-15,EWY,-105732000.73242188,estimated
@@ -2658,6 +2688,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWY,0.0,estimated
 2026-11-19,EWY,0.0,estimated
 2026-11-20,EWY,0.0,estimated
+2026-11-23,EWY,0.0,estimated
 2026-01-02,EWZ,,
 2026-01-05,EWZ,,
 2026-01-06,EWZ,,
@@ -2805,6 +2836,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EWZ,0.0,estimated
 2026-11-19,EWZ,0.0,estimated
 2026-11-20,EWZ,0.0,estimated
+2026-11-23,EWZ,0.0,estimated
 2026-09-12,EZU,,estimated
 2026-09-14,EZU,-13922000.122070312,estimated
 2026-09-15,EZU,0.0,estimated
@@ -2856,6 +2888,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,EZU,0.0,estimated
 2026-11-19,EZU,0.0,estimated
 2026-11-20,EZU,0.0,estimated
+2026-11-23,EZU,0.0,estimated
 2026-09-12,FBTC,,estimated
 2026-09-12,FCG,,estimated
 2026-09-14,FCG,9548999.977111816,estimated
@@ -2902,6 +2935,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,FCG,0.0,estimated
 2026-11-18,FCG,0.0,estimated
 2026-11-19,FCG,0.0,estimated
+2026-11-23,FCG,-9579500.29373169,estimated
 2026-09-12,FETH,,estimated
 2026-09-12,FEZ,,estimated
 2026-09-14,FEZ,0.0,estimated
@@ -2954,6 +2988,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,FEZ,0.0,estimated
 2026-11-19,FEZ,0.0,estimated
 2026-11-20,FEZ,0.0,estimated
+2026-11-23,FEZ,0.0,estimated
 2026-01-02,FXI,,
 2026-01-05,FXI,,
 2026-01-06,FXI,,
@@ -3101,6 +3136,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,FXI,0.0,estimated
 2026-11-19,FXI,0.0,estimated
 2026-11-20,FXI,-4689749.908447266,estimated
+2026-11-23,FXI,0.0,estimated
 2026-09-12,GBTC,,estimated
 2026-01-02,GDX,,
 2026-01-05,GDX,,
@@ -3591,6 +3627,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,GLD,306899917.60253906,estimated
 2026-11-19,GLD,-537343994.140625,estimated
 2026-11-20,GLD,-677019030.7617188,estimated
+2026-11-23,GLD,0.0,estimated
 2026-01-02,GLDM,,
 2026-01-05,GLDM,25850000.0,
 2026-01-06,GLDM,114670000.0,
@@ -3718,6 +3755,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,GLDM,0.0,estimated
 2026-11-19,GLDM,0.0,estimated
 2026-11-20,GLDM,-41748001.09863281,estimated
+2026-11-23,GLDM,0.0,estimated
 2026-01-02,GSG,,
 2026-01-05,GSG,-201840000.0,
 2026-01-06,GSG,-568220000.0,
@@ -3865,6 +3903,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,GSG,0.0,estimated
 2026-11-19,GSG,-8170000.076293945,estimated
 2026-11-20,GSG,-3243999.8626708984,estimated
+2026-11-23,GSG,-6513999.938964844,estimated
 2026-09-12,GSOL,,estimated
 2026-09-12,HACK,,estimated
 2026-09-14,HACK,0.0,estimated
@@ -3917,6 +3956,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,HACK,11933499.908447266,estimated
 2026-11-19,HACK,0.0,estimated
 2026-11-20,HACK,0.0,estimated
+2026-11-23,HACK,28825000.762939453,estimated
 2026-09-12,HEWJ,,estimated
 2026-09-14,HEWJ,0.0,estimated
 2026-09-15,HEWJ,0.0,estimated
@@ -3968,6 +4008,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,HEWJ,-2996500.015258789,estimated
 2026-11-19,HEWJ,0.0,estimated
 2026-11-20,HEWJ,0.0,estimated
+2026-11-23,HEWJ,-2832999.9923706055,estimated
 2026-01-02,HYG,48330000.0,
 2026-01-05,HYG,-217550000.0,
 2026-01-06,HYG,-217920000.0,
@@ -4115,6 +4156,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,HYG,-153330001.8310547,estimated
 2026-11-19,HYG,-344790012.35961914,estimated
 2026-11-20,HYG,-198626991.27197266,estimated
+2026-11-23,HYG,-61064001.46484375,estimated
 2026-09-12,IAGG,,estimated
 2026-10-14,IAGG,794337772.1786499,estimated
 2026-01-02,IAU,,
@@ -4349,6 +4391,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IAU,-20975999.450683594,estimated
 2026-11-19,IAU,0.0,estimated
 2026-11-20,IAU,-59516997.52807617,estimated
+2026-11-23,IAU,0.0,estimated
 2026-01-02,IBB,-75960000.0,
 2026-01-05,IBB,92970000.0,
 2026-01-06,IBB,-8369999.999999999,
@@ -4592,6 +4635,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IBIT,73683998.41308594,estimated
 2026-11-19,IBIT,-204160579.68139648,estimated
 2026-11-20,IBIT,-138327005.76782227,estimated
+2026-11-23,IBIT,-508508007.04956055,estimated
 2026-01-02,ICLN,-15050000.0,
 2026-01-05,ICLN,-47090000.0,
 2026-01-06,ICLN,111390000.0,
@@ -4835,6 +4879,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IEF,-54401998.90136719,estimated
 2026-11-19,IEF,-99793100.73852539,estimated
 2026-11-20,IEF,0.0,estimated
+2026-11-23,IEF,-137475002.28881836,estimated
 2026-09-12,IEI,,estimated
 2026-09-14,IEI,-22910000.61035156,estimated
 2026-09-15,IEI,0.0,estimated
@@ -5010,6 +5055,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IEMG,0.0,estimated
 2026-11-19,IEMG,0.0,estimated
 2026-11-20,IEMG,0.0,estimated
+2026-11-23,IEMG,0.0,estimated
 2026-09-12,IGIB,,estimated
 2026-09-14,IGIB,10245999.908447266,estimated
 2026-09-15,IGIB,0.0,estimated
@@ -5084,6 +5130,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IJH,-46803248.21472168,estimated
 2026-11-19,IJH,-21221999.35913086,estimated
 2026-11-20,IJH,0.0,estimated
+2026-11-23,IJH,-58309998.70300293,estimated
 2026-09-12,ILF,,estimated
 2026-09-14,ILF,0.0,estimated
 2026-09-15,ILF,35549999.23706055,estimated
@@ -5135,6 +5182,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ILF,0.0,estimated
 2026-11-19,ILF,0.0,estimated
 2026-11-20,ILF,0.0,estimated
+2026-11-23,ILF,-14489999.771118164,estimated
 2026-01-02,INDA,,
 2026-01-05,INDA,,
 2026-01-06,INDA,,
@@ -5282,6 +5330,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,INDA,0.0,estimated
 2026-11-19,INDA,,estimated
 2026-11-20,INDA,0.0,estimated
+2026-11-23,INDA,-10580000.305175781,estimated
 2026-09-12,INDY,,estimated
 2026-09-14,INDY,-14878499.41253662,estimated
 2026-09-15,INDY,0.0,estimated
@@ -5333,6 +5382,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,INDY,0.0,estimated
 2026-11-19,INDY,0.0,estimated
 2026-11-20,INDY,0.0,estimated
+2026-11-23,INDY,-9487999.725341797,estimated
 2026-09-12,ITA,,estimated
 2026-09-14,ITA,-43801998.90136719,estimated
 2026-09-15,ITA,0.0,estimated
@@ -5384,6 +5434,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ITA,0.0,estimated
 2026-11-19,ITA,-23958585.739135742,estimated
 2026-11-20,ITA,6655000.305175781,estimated
+2026-11-23,ITA,-92637997.43652344,estimated
 2026-09-12,ITOT,,estimated
 2026-09-14,ITOT,175465500.64086914,estimated
 2026-09-15,ITOT,-33273999.0234375,estimated
@@ -5435,6 +5486,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ITOT,0.0,estimated
 2026-11-19,ITOT,39205001.83105469,estimated
 2026-11-20,ITOT,0.0,estimated
+2026-11-23,ITOT,286349012.75634766,estimated
 2026-09-12,IVE,,estimated
 2026-09-14,IVE,23532000.732421875,estimated
 2026-09-15,IVE,0.0,estimated
@@ -5486,6 +5538,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IVE,-11769000.244140625,estimated
 2026-11-19,IVE,-34822499.084472656,estimated
 2026-11-20,IVE,0.0,estimated
+2026-11-23,IVE,148031003.57055664,estimated
 2026-01-02,IVV,616330000.0,
 2026-01-05,IVV,-2813700000.0,
 2026-01-06,IVV,-448910000.0,
@@ -5633,6 +5686,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IVV,916881256.1035156,estimated
 2026-11-19,IVV,541316253.6621094,estimated
 2026-11-20,IVV,-34867999.267578125,estimated
+2026-11-23,IVV,797766525.2685547,estimated
 2026-09-12,IVW,,estimated
 2026-09-14,IVW,13930999.755859377,estimated
 2026-09-15,IVW,0.0,estimated
@@ -5684,6 +5738,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IVW,38396999.35913086,estimated
 2026-11-19,IVW,0.0,estimated
 2026-11-20,IVW,41670999.14550781,estimated
+2026-11-23,IVW,-70967999.26757812,estimated
 2026-09-12,IWB,,estimated
 2026-09-14,IWB,-20895500.18310547,estimated
 2026-09-15,IWB,0.0,estimated
@@ -5735,6 +5790,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWB,59966413.87939453,estimated
 2026-11-19,IWB,19661999.51171875,estimated
 2026-11-20,IWB,19008000.18310547,estimated
+2026-11-23,IWB,170239498.9013672,estimated
 2026-09-12,IWD,,estimated
 2026-09-14,IWD,-102232000.73242188,estimated
 2026-09-15,IWD,0.0,estimated
@@ -5786,6 +5842,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWD,0.0,estimated
 2026-11-19,IWD,0.0,estimated
 2026-11-20,IWD,-49685000.61035156,estimated
+2026-11-23,IWD,111334501.64794922,estimated
 2026-09-12,IWF,,estimated
 2026-09-14,IWF,-12226999.66430664,estimated
 2026-09-15,IWF,-18189000.32043457,estimated
@@ -5837,6 +5894,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWF,60923498.15368652,estimated
 2026-11-19,IWF,217750000.0,estimated
 2026-11-20,IWF,123132000.73242188,estimated
+2026-11-23,IWF,-45774000.549316406,estimated
 2026-01-02,IWM,-110800000.0,
 2026-01-05,IWM,-1194440000.0,
 2026-01-06,IWM,-1440860000.0,
@@ -5984,6 +6042,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWM,175694992.0654297,estimated
 2026-11-19,IWM,278428514.0991211,estimated
 2026-11-20,IWM,-193424240.1123047,estimated
+2026-11-23,IWM,423406475.8300781,estimated
 2026-09-12,IWN,,estimated
 2026-09-14,IWN,10984500.122070312,estimated
 2026-09-15,IWN,0.0,estimated
@@ -6035,6 +6094,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWN,0.0,estimated
 2026-11-19,IWN,0.0,estimated
 2026-11-20,IWN,0.0,estimated
+2026-11-23,IWN,0.0,estimated
 2026-09-12,IWO,,estimated
 2026-09-14,IWO,0.0,estimated
 2026-09-15,IWO,0.0,estimated
@@ -6086,6 +6146,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IWO,0.0,estimated
 2026-11-19,IWO,0.0,estimated
 2026-11-20,IWO,16112500.0,estimated
+2026-11-23,IWO,16021499.633789062,estimated
 2026-09-12,IXUS,,estimated
 2026-09-14,IXUS,-87498001.09863281,estimated
 2026-09-15,IXUS,0.0,estimated
@@ -6137,6 +6198,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,IXUS,88629997.25341797,estimated
 2026-11-19,IXUS,0.0,estimated
 2026-11-20,IXUS,0.0,estimated
+2026-11-23,IXUS,0.0,estimated
 2026-01-02,JAAA,20210000.0,
 2026-01-05,JAAA,111190000.0,
 2026-01-06,JAAA,101100000.0,
@@ -6374,6 +6436,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,KBA,2374.4600524902344,estimated
 2026-11-19,KBA,-2545.4193019866943,estimated
 2026-11-20,KBA,-8384.399883270264,estimated
+2026-11-23,KBA,-1338870.1062259674,estimated
 2026-09-12,KSA,,estimated
 2026-09-14,KSA,0.0,estimated
 2026-09-15,KSA,0.0,estimated
@@ -6425,6 +6488,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,KSA,0.0,estimated
 2026-11-19,KSA,0.0,estimated
 2026-11-20,KSA,0.0,estimated
+2026-11-23,KSA,0.0,estimated
 2026-09-12,KWEB,,estimated
 2026-09-14,KWEB,-11220527.57399559,estimated
 2026-09-15,KWEB,0.0,estimated
@@ -6476,6 +6540,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,KWEB,-10308002.304391861,estimated
 2026-11-19,KWEB,-50355293.66038704,estimated
 2026-11-20,KWEB,-7494141.007633209,estimated
+2026-11-23,KWEB,-28645191.850719452,estimated
 2026-01-02,LQD,55150000.0,
 2026-01-05,LQD,-275290000.0,
 2026-01-06,LQD,-463700000.0,
@@ -6623,6 +6688,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,LQD,-134056003.57055664,estimated
 2026-11-19,LQD,381340509.0332031,estimated
 2026-11-20,LQD,-145375994.87304688,estimated
+2026-11-23,LQD,-373284008.7890625,estimated
 2026-09-12,MCHI,,estimated
 2026-09-14,MCHI,0.0,estimated
 2026-09-15,MCHI,0.0,estimated
@@ -6674,6 +6740,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,MCHI,0.0,estimated
 2026-11-19,MCHI,0.0,estimated
 2026-11-20,MCHI,0.0,estimated
+2026-11-23,MCHI,0.0,estimated
 2026-09-12,MUB,,estimated
 2026-10-14,MUB,5971434017.944336,estimated
 2026-09-12,OIH,,estimated
@@ -6723,6 +6790,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,OIH,0.0,estimated
 2026-11-18,OIH,0.0,estimated
 2026-11-19,OIH,0.0,estimated
+2026-11-23,OIH,-16486500.549316406,estimated
 2026-09-12,PAVE,,estimated
 2026-09-14,PAVE,47668493.13397217,estimated
 2026-09-15,PAVE,0.0,estimated
@@ -6774,6 +6842,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,PAVE,-61732975.59199524,estimated
 2026-11-19,PAVE,-23122061.669696808,estimated
 2026-11-20,PAVE,-12770229.5,estimated
+2026-11-23,PAVE,-1993083.7172088623,estimated
 2026-09-12,PDBC,,estimated
 2026-09-14,PDBC,-2968500.1373291016,estimated
 2026-09-15,PDBC,0.0,estimated
@@ -6816,6 +6885,7 @@ date,ticker,flow_usd,flow_type
 2026-11-16,PDBC,-2751000.0228881836,estimated
 2026-11-17,PDBC,0.0,estimated
 2026-11-18,PDBC,-5281769.943237305,estimated
+2026-11-23,PDBC,16596499.347686768,estimated
 2026-09-12,PPA,,estimated
 2026-09-14,PPA,-1618099.9755859375,estimated
 2026-09-15,PPA,0.0,estimated
@@ -6867,6 +6937,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,PPA,-20002553.86352539,estimated
 2026-11-19,PPA,-10619700.469970703,estimated
 2026-11-20,PPA,-14727000.427246094,estimated
+2026-11-23,PPA,-16096300.201416016,estimated
 2026-01-02,QQQ,522050000.0,
 2026-01-05,QQQ,-3157890000.0,
 2026-01-06,QQQ,-587020000.0,
@@ -7099,6 +7170,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,QQQ,230431677.24609375,estimated
 2026-11-19,QQQ,-1620000000.0,estimated
 2026-11-20,QQQ,-1074797470.0927734,estimated
+2026-11-23,QQQ,-608450012.2070312,estimated
 2026-09-12,QQQM,,estimated
 2026-09-14,QQQM,-38270701.90429688,estimated
 2026-09-15,QQQM,0.0,estimated
@@ -7150,6 +7222,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,QQQM,157240906.3720703,estimated
 2026-11-19,QQQM,58699300.537109375,estimated
 2026-11-20,QQQM,159323285.52246094,estimated
+2026-11-23,QQQM,198471696.62475586,estimated
 2026-09-12,ROBO,,estimated
 2026-09-14,ROBO,-25552.530197143555,estimated
 2026-09-15,ROBO,0.0,estimated
@@ -7201,6 +7274,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,ROBO,51492.316833496094,estimated
 2026-11-19,ROBO,23053.02968597412,estimated
 2026-11-20,ROBO,-45418.56099700928,estimated
+2026-11-23,ROBO,-75009.44164657593,estimated
 2026-09-12,SCHP,,estimated
 2026-10-14,SCHP,383372894.2871094,estimated
 2026-10-20,SCHP,-20303999.32861328,estimated
@@ -7245,6 +7319,7 @@ date,ticker,flow_usd,flow_type
 2026-11-16,SGOV,256427993.77441406,estimated
 2026-11-17,SGOV,125726499.55749512,estimated
 2026-11-18,SGOV,462737005.6152344,estimated
+2026-11-23,SGOV,1600175990.2954102,estimated
 2026-01-02,SHY,319660000.0,
 2026-01-05,SHY,409110000.0,
 2026-01-06,SHY,30000000.0,
@@ -7392,6 +7467,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SHY,105738880.92041016,estimated
 2026-11-19,SHY,-65081921.38671875,estimated
 2026-11-20,SHY,0.0,estimated
+2026-11-23,SHY,-65288000.48828125,estimated
 2026-09-12,SIVR,,estimated
 2026-09-14,SIVR,0.0,estimated
 2026-09-15,SIVR,0.0,estimated
@@ -7440,6 +7516,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,SIVR,0.0,estimated
 2026-11-18,SIVR,-21302499.771118164,estimated
 2026-11-19,SIVR,0.0,estimated
+2026-11-23,SIVR,19459999.084472656,estimated
 2026-09-12,SKYY,,estimated
 2026-09-14,SKYY,-7923500.061035156,estimated
 2026-09-15,SKYY,0.0,estimated
@@ -7491,6 +7568,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SKYY,-7326499.938964844,estimated
 2026-11-19,SKYY,0.0,estimated
 2026-11-20,SKYY,0.0,estimated
+2026-11-23,SKYY,68260002.13623047,estimated
 2026-01-02,SLV,,
 2026-01-05,SLV,,
 2026-01-06,SLV,-11740000.0,
@@ -7638,6 +7716,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SLV,-155982747.65014648,estimated
 2026-11-19,SLV,-59722497.94006348,estimated
 2026-11-20,SLV,46300001.14440918,estimated
+2026-11-23,SLV,55455001.83105469,estimated
 2026-09-12,SMH,,estimated
 2026-09-14,SMH,-483250524.90234375,estimated
 2026-09-15,SMH,-297825000.0,estimated
@@ -7689,6 +7768,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SMH,-456515014.6484375,estimated
 2026-11-19,SMH,-112767501.83105469,estimated
 2026-11-20,SMH,323528002.9296875,estimated
+2026-11-23,SMH,120017999.26757812,estimated
 2026-01-02,SOXX,,
 2026-01-05,SOXX,,
 2026-01-06,SOXX,,
@@ -7836,6 +7916,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SOXX,-464425502.01416016,estimated
 2026-11-19,SOXX,-236452993.77441406,estimated
 2026-11-20,SOXX,31149999.618530273,estimated
+2026-11-23,SOXX,86380001.06811523,estimated
 2026-01-02,SPY,-238630000.0,
 2026-01-05,SPY,-1400670000.0,
 2026-01-06,SPY,-3300460000.0,
@@ -7963,6 +8044,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,SPY,6645273889.160156,estimated
 2026-11-19,SPY,1329536871.3378906,estimated
 2026-11-20,SPY,-11073766467.285156,estimated
+2026-11-23,SPY,0.0,estimated
 2026-01-02,SRLN,,
 2026-01-05,SRLN,,
 2026-01-06,SRLN,,
@@ -8090,6 +8172,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,THD,-13210000.610351562,estimated
 2026-11-19,THD,0.0,estimated
 2026-11-20,THD,0.0,estimated
+2026-11-23,THD,0.0,estimated
 2026-01-02,TIP,-115530000.0,
 2026-01-05,TIP,115440000.0,
 2026-01-06,TIP,-269590000.0,
@@ -8237,6 +8320,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,TIP,52462501.525878906,estimated
 2026-11-19,TIP,-52500000.0,estimated
 2026-11-20,TIP,-74038997.65014648,estimated
+2026-11-23,TIP,-31721999.35913086,estimated
 2026-09-12,TLH,,estimated
 2026-09-14,TLH,0.0,estimated
 2026-09-15,TLH,0.0,estimated
@@ -8410,6 +8494,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,TLT,272646008.30078125,estimated
 2026-11-19,TLT,361147487.64038086,estimated
 2026-11-20,TLT,432586014.55688477,estimated
+2026-11-23,TLT,-97739996.33789062,estimated
 2026-09-12,UAE,,estimated
 2026-09-14,UAE,0.0,estimated
 2026-09-15,UAE,0.0,estimated
@@ -8461,6 +8546,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,UAE,0.0,estimated
 2026-11-19,UAE,2092000.0076293945,estimated
 2026-11-20,UAE,0.0,estimated
+2026-11-23,UAE,0.0,estimated
 2026-09-12,UNG,,estimated
 2026-09-14,UNG,9153000.06866455,estimated
 2026-09-15,UNG,11362999.91607666,estimated
@@ -8506,6 +8592,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,UNG,0.0,estimated
 2026-11-18,UNG,-11693000.12588501,estimated
 2026-11-19,UNG,0.0,estimated
+2026-11-23,UNG,-7392000.293731689,estimated
 2026-09-12,URA,,estimated
 2026-09-14,URA,18634365.407440186,estimated
 2026-09-15,URA,0.0,estimated
@@ -8557,6 +8644,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,URA,397890.28087615967,estimated
 2026-11-19,URA,-967491.4681243896,estimated
 2026-11-20,URA,689642.859752655,estimated
+2026-11-23,URA,11944509.438194275,estimated
 2026-09-12,URNM,,estimated
 2026-09-14,URNM,5761800.117492676,estimated
 2026-09-15,URNM,0.0,estimated
@@ -8608,6 +8696,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,URNM,0.0,estimated
 2026-11-19,URNM,0.0,estimated
 2026-11-20,URNM,-3381999.969482422,estimated
+2026-11-23,URNM,0.0,estimated
 2026-09-12,URTH,,estimated
 2026-09-14,URTH,0.0,estimated
 2026-09-15,URTH,0.0,estimated
@@ -8659,6 +8748,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,URTH,0.0,estimated
 2026-11-19,URTH,38917999.267578125,estimated
 2026-11-20,URTH,0.0,estimated
+2026-11-23,URTH,243658990.47851562,estimated
 2026-09-12,USHY,,estimated
 2026-10-12,USHY,-2511495053.6727905,estimated
 2026-10-14,USHY,-92286997.2229004,estimated
@@ -8711,6 +8801,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,USO,0.0,estimated
 2026-11-18,USO,232509007.2631836,estimated
 2026-11-19,USO,0.0,estimated
+2026-11-23,USO,-55852001.953125,estimated
 2026-09-12,VCIT,,estimated
 2026-09-14,VCIT,-318399993.8964844,estimated
 2026-10-08,VCIT,-758053683.7277222,estimated
@@ -8959,6 +9050,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VEU,211005756.10741425,estimated
 2026-11-19,VEU,0.0,estimated
 2026-11-20,VEU,126226.93635559082,estimated
+2026-11-23,VEU,2130545.024749756,estimated
 2026-09-12,VGIT,,estimated
 2026-09-14,VGIT,44438500.118255615,estimated
 2026-09-15,VGIT,0.0,estimated
@@ -9036,6 +9128,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VGK,0.0,estimated
 2026-11-19,VGK,320250.6884613037,estimated
 2026-11-20,VGK,83348799.59539795,estimated
+2026-11-23,VGK,166789.5912322998,estimated
 2026-09-12,VGLT,,estimated
 2026-09-14,VGLT,60982501.79290772,estimated
 2026-09-15,VGLT,0.0,estimated
@@ -9106,6 +9199,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VNM,0.0,estimated
 2026-11-19,VNM,-1639999.9618530273,estimated
 2026-11-20,VNM,-6513999.938964844,estimated
+2026-11-23,VNM,0.0,estimated
 2026-01-02,VOO,5859690000.0,
 2026-01-05,VOO,-734570000.0,
 2026-01-06,VOO,3076220000.0,
@@ -9338,6 +9432,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VOO,1325293551.758789,estimated
 2026-11-19,VOO,328703652.05303955,estimated
 2026-11-20,VOO,159466959.47021484,estimated
+2026-11-23,VOO,1194839944.7505493,estimated
 2026-09-12,VSOL,,estimated
 2026-09-12,VT,,estimated
 2026-09-14,VT,350428.5453491211,estimated
@@ -9390,6 +9485,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VT,1546569.8724060059,estimated
 2026-11-19,VT,236383007.30278015,estimated
 2026-11-20,VT,0.0,estimated
+2026-11-23,VT,30790725.516815186,estimated
 2026-09-12,VTEB,,estimated
 2026-10-14,VTEB,6413584298.654938,estimated
 2026-01-02,VTI,157210000.0,
@@ -9624,6 +9720,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VTI,283274930.4532471,estimated
 2026-11-19,VTI,466736175.6755066,estimated
 2026-11-20,VTI,281996942.4168091,estimated
+2026-11-23,VTI,769711069.5899963,estimated
 2026-09-12,VTIP,,estimated
 2026-10-14,VTIP,320114992.26475525,estimated
 2026-10-20,VTIP,149624177.322464,estimated
@@ -9678,6 +9775,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VTV,60554900.21278381,estimated
 2026-11-19,VTV,-174191163.8840332,estimated
 2026-11-20,VTV,71151772.41320801,estimated
+2026-11-23,VTV,71300342.54629517,estimated
 2026-09-12,VUG,,estimated
 2026-09-14,VUG,97509432.4811554,estimated
 2026-09-15,VUG,0.0,estimated
@@ -9729,6 +9827,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VUG,2624617.2063674927,estimated
 2026-11-19,VUG,211451137.8436432,estimated
 2026-11-20,VUG,34864018.69091034,estimated
+2026-11-23,VUG,268524513.38134766,estimated
 2026-01-02,VWO,207420000.0,
 2026-01-05,VWO,170220000.0,
 2026-01-06,VWO,74170000.0,
@@ -9961,6 +10060,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VWO,684826.0261077881,estimated
 2026-11-19,VWO,159338839.20896912,estimated
 2026-11-20,VWO,264727.762172699,estimated
+2026-11-23,VWO,311262.3734321594,estimated
 2026-09-12,VWOB,,estimated
 2026-10-14,VWOB,-88542392.35062027,estimated
 2026-09-12,VXUS,,estimated
@@ -10014,6 +10114,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,VXUS,493348039.06996155,estimated
 2026-11-19,VXUS,6259168.177711487,estimated
 2026-11-20,VXUS,6939406.644104004,estimated
+2026-11-23,VXUS,45837294.86985016,estimated
 2026-09-12,XAR,,estimated
 2026-09-14,XAR,-9838400.268554688,estimated
 2026-09-15,XAR,0.0,estimated
@@ -10065,6 +10166,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XAR,-10981999.969482422,estimated
 2026-11-19,XAR,21564999.389648438,estimated
 2026-11-20,XAR,-4133200.0732421875,estimated
+2026-11-23,XAR,0.0,estimated
 2026-01-02,XLB,-18160000.0,
 2026-01-05,XLB,-4040000.0,
 2026-01-06,XLB,20210000.0,
@@ -10192,6 +10294,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLB,-138737502.0980835,estimated
 2026-11-19,XLB,59448001.09863281,estimated
 2026-11-20,XLB,0.0,estimated
+2026-11-23,XLB,0.0,estimated
 2026-01-02,XLC,-104580000.0,
 2026-01-05,XLC,56150000.0,
 2026-01-06,XLC,19210000.0,
@@ -10319,6 +10422,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLC,15882750.32043457,estimated
 2026-11-19,XLC,25872499.465942383,estimated
 2026-11-20,XLC,252000007.62939453,estimated
+2026-11-23,XLC,0.0,estimated
 2026-01-02,XLE,30120000.0,
 2026-01-05,XLE,186800000.0,
 2026-01-06,XLE,735230000.0,
@@ -10446,6 +10550,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLE,-605380014.0380859,estimated
 2026-11-19,XLE,51867000.38909912,estimated
 2026-11-20,XLE,-728053740.8828735,estimated
+2026-11-23,XLE,0.0,estimated
 2026-01-02,XLF,-11180000.0,
 2026-01-05,XLF,47940000.0,
 2026-01-06,XLF,344570000.0,
@@ -10573,6 +10678,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLF,-364489489.17388916,estimated
 2026-11-19,XLF,-181138751.98364258,estimated
 2026-11-20,XLF,-38405501.17492676,estimated
+2026-11-23,XLF,0.0,estimated
 2026-01-02,XLI,-15480000.0,
 2026-01-05,XLI,178820000.0,
 2026-01-06,XLI,54250000.0,
@@ -10700,6 +10806,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLI,-313177003.4790039,estimated
 2026-11-19,XLI,-153833493.0419922,estimated
 2026-11-20,XLI,156979995.72753906,estimated
+2026-11-23,XLI,0.0,estimated
 2026-01-02,XLK,-201530000.0,
 2026-01-05,XLK,339120000.0,
 2026-01-06,XLK,-216960000.0,
@@ -10827,6 +10934,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLK,212133990.47851562,estimated
 2026-11-19,XLK,-298719502.2583008,estimated
 2026-11-20,XLK,398109488.6779785,estimated
+2026-11-23,XLK,0.0,estimated
 2026-01-02,XLP,29850000.0,
 2026-01-05,XLP,-260430000.0,
 2026-01-06,XLP,78210000.0,
@@ -10954,6 +11062,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLP,-54758999.63378906,estimated
 2026-11-19,XLP,-422459510.0402832,estimated
 2026-11-20,XLP,145368005.37109375,estimated
+2026-11-23,XLP,0.0,estimated
 2026-01-02,XLRE,-29460000.0,
 2026-01-05,XLRE,83000000.0,
 2026-01-06,XLRE,23290000.0,
@@ -11081,6 +11190,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLRE,21809999.465942383,estimated
 2026-11-19,XLRE,0.0,estimated
 2026-11-20,XLRE,0.0,estimated
+2026-11-23,XLRE,0.0,estimated
 2026-01-02,XLU,-5880000.0,
 2026-01-05,XLU,-105210000.0,
 2026-01-06,XLU,-5890000.0,
@@ -11208,6 +11318,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLU,-106783247.75695801,estimated
 2026-11-19,XLU,0.0,estimated
 2026-11-20,XLU,62262998.00872803,estimated
+2026-11-23,XLU,0.0,estimated
 2026-01-02,XLV,,
 2026-01-05,XLV,158000000.0,
 2026-01-06,XLV,615240000.0,
@@ -11335,6 +11446,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLV,-63423502.349853516,estimated
 2026-11-19,XLV,-239625177.5,estimated
 2026-11-20,XLV,-329392327.5957489,estimated
+2026-11-23,XLV,0.0,estimated
 2026-01-02,XLY,-58260000.0,
 2026-01-05,XLY,69930000.0,
 2026-01-06,XLY,-181760000.0,
@@ -11462,6 +11574,7 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XLY,-107410501.09863281,estimated
 2026-11-19,XLY,-214997743.22509766,estimated
 2026-11-20,XLY,163922504.42504883,estimated
+2026-11-23,XLY,0.0,estimated
 2026-09-12,XOP,,estimated
 2026-09-14,XOP,127218000.79345705,estimated
 2026-09-15,XOP,0.0,estimated
@@ -11510,6 +11623,7 @@ date,ticker,flow_usd,flow_type
 2026-11-17,XOP,-35439001.46484375,estimated
 2026-11-18,XOP,-43065250.396728516,estimated
 2026-11-19,XOP,0.0,estimated
+2026-11-23,XOP,25208999.633789062,estimated
 2026-09-12,XSD,,estimated
 2026-09-14,XSD,12639250.183105469,estimated
 2026-09-15,XSD,0.0,estimated
@@ -11561,4 +11675,5 @@ date,ticker,flow_usd,flow_type
 2026-11-18,XSD,10316750.33569336,estimated
 2026-11-19,XSD,-20551249.69482422,estimated
 2026-11-20,XSD,0.0,estimated
+2026-11-23,XSD,9191750.33569336,estimated
 2026-09-12,ZCSH,,estimated
